@@ -1,11 +1,2 @@
 # JoshRyBlog
-Josh Ryland's personal blog.
-
-Credits
-
-PixelArtRoom - abueloretrowave
-japWave - https://www.reddit.com/user/ThatPixelArtDude/
-starwarsart -https://www.reddit.com/user/jeanleonino/
-ruins - https://www.reddit.com/user/Franrekkk/
-
-Thanks to Sharon Rosseels for sharing their work on Unsplash Sunflowers
+Josh Ryland's personal blog. This website is intended to be a very lightweight pure html/css website that stands as a place to upload blog articles done by the author.
